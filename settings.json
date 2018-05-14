@@ -1,0 +1,13 @@
+{
+  "ZAPPMAN": {
+    "URL": "http://cdn.zehinz.com/api/zappman/index.php",
+    "TOKEN": "fbbb81c0151dfbe07bd197d2dfa7766f"
+  },
+
+  "public": {
+    "CDN": "http://cdn.zehinz.com/android/",
+    "analyticsSettings": {
+      "Google Analytics" : {"trackingId": "UA-XXXXX"}
+    }
+  }
+}

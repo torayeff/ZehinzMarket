@@ -1,0 +1,32 @@
+@media screen and (min-width: 480px) {
+    .zcenter {
+      width: 600px;
+      padding: 15px;
+      margin: auto;
+    }
+}
+
+.swiper-slide {
+  -webkit-flex-shrink: 0;
+  -ms-flex: 0 0 auto;
+  flex-shrink: 0;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.center, .center-align {
+  text-align: center;
+}
+
+hr {
+  margin: 0;
+  padding: 0;
+}
