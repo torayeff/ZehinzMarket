@@ -1,2 +1,2 @@
 # ZehinzMarket
-Android Application Market for Turkmenistan
+Android Application Market for Turkmenistan (Deprecated)
